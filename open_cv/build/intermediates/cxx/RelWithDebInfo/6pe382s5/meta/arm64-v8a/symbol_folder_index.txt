@@ -1,0 +1,1 @@
+/usr/local/Android/Android-Studio-Projects/Upwork/OpenCVJava/open_cv/build/intermediates/cxx/RelWithDebInfo/6pe382s5/obj/arm64-v8a

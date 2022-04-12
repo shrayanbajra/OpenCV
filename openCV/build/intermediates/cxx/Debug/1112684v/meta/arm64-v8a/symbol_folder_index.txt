@@ -1,0 +1,1 @@
+/usr/local/Android/Android-Studio-Projects/Upwork/OpenCVJava/openCV/build/intermediates/cxx/Debug/1112684v/obj/arm64-v8a

@@ -1,0 +1,1 @@
+/usr/local/Android/Android-Studio-Projects/Upwork/OpenCVJava/openCV/build/intermediates/cxx/RelWithDebInfo/x1h5f4r4/obj/armeabi-v7a
